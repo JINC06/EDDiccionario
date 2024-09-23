@@ -35,7 +35,7 @@ public class Main {
         phoneBook.put("Ricky McBright", "2001");
         
         //Prueba repitiendo una llave
-        //phoneBook.put("Ricky McBright", "2002");
+        phoneBook.put("Ricky McBright", "2002");
         
         System.out.println("----------------------------------");
         
